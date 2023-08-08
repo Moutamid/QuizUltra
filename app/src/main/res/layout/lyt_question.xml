@@ -33,7 +33,7 @@
                 android:textSize="@dimen/default_text_size" />
         </ScrollView>
 
-        <com.wrteam.quiz.helper.TouchImageView
+        <com.moutamid.quiz.helper.TouchImageView
             android:id="@+id/imgQuestion"
             android:layout_width="match_parent"
             android:layout_height="@dimen/img_height"

@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/bg_color"
-    tools:context="com.wrteam.quiz.activity.BookmarkList">
+    tools:context="com.moutamid.quiz.activity.BookmarkList">
 
 <include layout="@layout/toolbar_layout"/>
 

@@ -49,7 +49,7 @@
                     android:textSize="@dimen/mid_text"
                     android:textStyle="bold" />
 
-                <com.wrteam.quiz.helper.MathJaxWebView
+                <com.moutamid.quiz.helper.MathJaxWebView
                     android:id="@+id/tvSolution"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

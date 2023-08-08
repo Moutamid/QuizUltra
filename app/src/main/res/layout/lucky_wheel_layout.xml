@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.wrteam.quiz.spin.PielView
+    <com.moutamid.quiz.spin.PielView
         android:id="@+id/pieView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

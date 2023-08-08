@@ -111,7 +111,7 @@
                         android:gravity="center"
                         android:orientation="vertical">
 
-                        <com.wrteam.quiz.helper.CircleTimer
+                        <com.moutamid.quiz.helper.CircleTimer
                             android:id="@+id/progressTimer"
                             android:layout_width="50dp"
                             android:layout_height="50dp"
@@ -274,7 +274,7 @@
             app:lottie_loop="true"
             app:lottie_rawRes="@raw/dotprogress" />
 
-        <com.wrteam.quiz.helper.Typewriter
+        <com.moutamid.quiz.helper.Typewriter
             android:id="@+id/typewrite"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

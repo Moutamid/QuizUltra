@@ -8,18 +8,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:289053112887:android:7cd154692d9b2fa9261db2",
+        "mobilesdk_app_id": "1:289053112887:android:097edcd970e8a5f4261db2",
         "android_client_info": {
-          "package_name": "com.wrteam.quiz"
+          "package_name": "com.moutamid.quiz"
         }
       },
       "oauth_client": [
         {
-          "client_id": "289053112887-35o8c8t9u7rpb890nso2rv89g7c663dd.apps.googleusercontent.com",
+          "client_id": "289053112887-f4lddbqh15svqr7md3qpq8bdqkn6lsmd.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.wrteam.quiz",
-            "certificate_hash": "349ec888675c55e83659c423a21daa08da99871f"
+            "package_name": "com.moutamid.quiz",
+            "certificate_hash": "592eb93dd25ca2ff6e102db0ec9d9fecf4d5d22b"
           }
         },
         {

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         vectorDrawables.useSupportLibrary = true
-        applicationId "com.wrteam.quiz"
+        applicationId "com.moutamid.quiz"
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 1
