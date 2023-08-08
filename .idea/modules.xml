@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_Code_QUIZ__Online_7.0.9.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_Code_QUIZ__Online_7.0.9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Code_QUIZ__Online_7.0.9.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuizUltra.iml" filepath="$PROJECT_DIR$/.idea/modules/QuizUltra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuizUltra.app.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -1,9 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.android:facebook-applinks:11.3.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aff4ad85a341d544ffebaa6716693b67/transformed/jetified-facebook-applinks-11.3.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aff4ad85a341d544ffebaa6716693b67/transformed/jetified-facebook-applinks-11.3.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aff4ad85a341d544ffebaa6716693b67/transformed/jetified-facebook-applinks-11.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e8ae221d363cf4877fadf2d2a636c9cf/transformed/jetified-facebook-applinks-11.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e8ae221d363cf4877fadf2d2a636c9cf/transformed/jetified-facebook-applinks-11.3.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-applinks/11.3.0/ff8783e8d3bcf3e84bd00e65dac4af312b1c869a/facebook-applinks-11.3.0-javadoc.jar!/" />
